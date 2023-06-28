@@ -1,11 +1,11 @@
 document.getElementById("homeButton").onclick = function () {
-    location.href = "elsagilbenito/index.html";
+    location.href = "index.html";
     };
 
 document.getElementById("portfolioButton").onclick = function () {
-    location.href = "elsagilbenito/portfolio.html";
+    location.href = "portfolio.html";
     };
 
 document.getElementById("contactButton").onclick = function () {
-    location.href = "elsagilbenito/contact.html";
+    location.href = "contact.html";
     };   
